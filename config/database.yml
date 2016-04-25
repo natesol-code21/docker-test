@@ -14,7 +14,6 @@ default: &default
 
 development:
   <<: *default
-  host: ''
   database: docker_test_development
 
 # Warning: The database defined as "test" will be erased and
