@@ -21,6 +21,8 @@ Things you may want to cover:
 
 * Deployment instructions
 
+* Creating a db on a new node can be automated
+
 * ...
 
 
